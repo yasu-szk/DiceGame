@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main(){
   int d1,d2;
   int total;
   char name[20];
+ 
   
   printf("What is your name?\n");
   scanf("%s",name);
